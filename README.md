@@ -21,5 +21,5 @@ While some of these, especially content strategy and visual design, are not necs
 
 - Front end development (beyond prototyping)
 - Back end development
-- Mobile app **development**
+- Mobile app *development* (mobile UX may certainly be included)
 - Something that can be used without changing it to reflect the needs of clients, users, etc.
