@@ -13,6 +13,7 @@ Because user experince is a vast and fairly ill-defined field, it's helpful to d
 - Evaluative research
 - Interaction design
 - Visual design
+- A starting point to begin activities in these disciplines. Maybe a script with basic questions that can be modified as necessary, maybe a list of exercises.
 
 While some of these, especially content strategy and visual design, are not necssarily always part of what a UX person does, it's quite often the same group doing all of these things and even when it isn't it's still necessary to have a common understanding.
 
