@@ -7,8 +7,8 @@ When possible, do these individually and with as many people vested in the proje
 ## Stakeholder questions
 
 1. What do you do? Why?
-- Not interested in job title here, but what the daily job is. Alternatively, ask "what are your essential duties and responsibilities" or "what does a typical day look like for you"? Different customers will benefit from different ways of framing this.
-- The goal here is to get them thinking deeper than what they'd like the site to look like/do, and think about what it actually means to their business.
+-- Not interested in job title here, but what the daily job is. Alternatively, ask "what are your essential duties and responsibilities" or "what does a typical day look like for you"? Different customers will benefit from different ways of framing this.
+-- The goal here is to get them thinking deeper than what they'd like the site to look like/do, and think about what it actually means to their business.
 2. How do you know if you are successful?
 3. Who are the people and teams you work/communicate most closely with?
 4. If this project is successful, what impact will that have on your job?
