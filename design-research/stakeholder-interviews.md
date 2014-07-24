@@ -7,15 +7,15 @@ When possible, do these individually and with as many people vested in the proje
 ## Stakeholder questions
 
 1. What do you do? Why?
-⋅⋅* Not interested in job title here, but what the daily job is. Alternatively, ask "what are your essential duties and responsibilities" or "what does a typical day look like for you"? Different customers will benefit from different ways of framing this.
-⋅⋅* The goal here is to get them thinking deeper than what they'd like the site to look like/do, and think about what it actually means to their business.
+  - Not interested in job title here, but what the daily job is. Alternatively, ask "what are your essential duties and responsibilities" or "what does a typical day look like for you"? Different customers will benefit from different ways of framing this.
+  - The goal here is to get them thinking deeper than what they'd like the site to look like/do, and think about what it actually means to their business.
 2. How do you know if you are successful?
 3. Who are the people and teams you work/communicate most closely with?
 4. If this project is successful, what impact will that have on your job?
 
 ## Site roadmap
 1. What are upcoming goals, milestones, or decisions for this product, service, business, etc.?
-⋅⋅* There is a lot of room for variety here, as you can focus more on the business or more on the product itself, depending on which one will provide more useful information.
+  - There is a lot of room for variety here, as you can focus more on the business or more on the product itself, depending on which one will provide more useful information.
 2. What are the biggest risks to the success of the project?
 3. What information could help you make decisions or prioritize your efforts?
 4. Existing sites only: What's the story of how we got to this point?
@@ -29,15 +29,15 @@ When possible, do these individually and with as many people vested in the proje
 
 ## Goals and metrics
 1. What is the organizational mission statement?
-⋅⋅* Sometimes this question is redundant or not helpful. If you feel like it adds value - to you or the customer - ask it. If not, skip it.
+  - Sometimes this question is redundant or not helpful. If you feel like it adds value - to you or the customer - ask it. If not, skip it.
 2. What are the overall business goals?
-⋅⋅* This is another one that has some flexibility. The question can relate to what the business needs to do as a whole, or to what this specific project needs to do to be successful. Sometimes both are useful; sometimes one or the other.
-⋅⋅* It can also be helpful to include goal prioritization exercises at this point. It can help folks think about constraints of importance (how much of a difference the goals make) and severity (how much the current state hurts).
+  - This is another one that has some flexibility. The question can relate to what the business needs to do as a whole, or to what this specific project needs to do to be successful. Sometimes both are useful; sometimes one or the other.
+  - It can also be helpful to include goal prioritization exercises at this point. It can help folks think about constraints of importance (how much of a difference the goals make) and severity (how much the current state hurts).
 3. What assumptions do you have about this project?
 4. What do you expect a successful project will be like?
-⋅⋅* What will it do?
-⋅⋅* What features will it have?
-⋅⋅* What will it be like to use it?
+  - What will it do?
+  - What features will it have?
+  - What will it be like to use it?
 5. What risks do you see in this project?
 6. Who is responsible for what in this project?
 7. How will you measure performance and success of this product?
@@ -56,5 +56,5 @@ When possible, do these individually and with as many people vested in the proje
 ## Research needs and impact
 1. What are your three wishes for intelligence about your users, competitors, etc.?
 2. Imagine the most useful, actionable research results possible.
-⋅⋅* What would they tell you?
-⋅⋅* How would you use them?
+  - What would they tell you?
+  - How would you use them?
