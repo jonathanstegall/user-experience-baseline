@@ -4,5 +4,5 @@ I realize doing a full stakeholder interview is not realistic or necessary if yo
 
 1. What is the problem, as you see it?
 2. What person or group of people has this problem? You can have multiple answers for this, but each one needs to be a distinct unit.
-2a. For each of these, how do you know they have this problem?
+-- 2a. For each of these, how do you know they have this problem?
 3. What will change for you, as the person saying there's a problem, if it gets solved?
