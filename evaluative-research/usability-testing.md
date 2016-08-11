@@ -1,4 +1,8 @@
-## Introduction
+# Usability testing
+
+## Script
+
+### Introduction
 
 Hi, []. My name is [].
 
@@ -14,7 +18,7 @@ If you don't mind, we'd like to use this software and microphone to record our s
 
 Do you have any questions before we begin?
 
-## Background information questions
+### Background information questions
 
 Before we look at the site, I'd like to ask you just a few quick questions. First, what's your occupation?
 
@@ -26,10 +30,10 @@ Do you have any favorite Web sites?
 
 OK, great. We're done with the questions, and we can start looking at things.
 
-## Usability test
+### Usability test
 
 First, I'm just going to ask you to look at this page and tell me what you think it is, what your impressions are, and what you think would happen if you clicked things (you don't need to click anything yet).
 
 And again, as much as possible, it will help us if you can try to think out loud so we know what you're thinking about.
 
-### Tasks
+#### Tasks
