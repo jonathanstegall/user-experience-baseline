@@ -19,6 +19,8 @@ When possible, do these individually and with as many people vested in the proje
 2. What are the biggest risks to the success of the project?
 3. What information could help you make decisions or prioritize your efforts?
 4. Existing sites only: What's the story of how we got to this point?
+5. What problems have you noticed (with the existing site, or in a broader sense if not applicable)?
+6. What kind of workarounds do you use?
 
 ## Users
 1. Who are your target users (or user groups)? What distinguishes them? (e.g. demographics, usage patterns, needs, expectations, pain points, etc.)
@@ -58,3 +60,4 @@ When possible, do these individually and with as many people vested in the proje
 2. Imagine the most useful, actionable research results possible.
   - What would they tell you?
   - How would you use them?
+3. Is there anyone else you think I should talk to?
